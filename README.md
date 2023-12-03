@@ -6,6 +6,8 @@ de autoria de <b>Felipe Costa Cunha</b> (IFCE) e <b>Rudini Sampaio</b> (DC-UFC).
 
 [irodov.pdf](https://github.com/rudinims/irodov/blob/main/irodov.pdf)
 
+Uma cópia dessas simulações se encontra em: [LIA-UFC](http://www.lia.ufc.br/~rudini/publ/irodov.htm) e em [DC-UFC](http://sites.dc.ufc.br/~rudini/publ/irodov.htm)
+
 
 <hr>
 <H2>Simulação computacional do Problema 1.12 do Irodov</H2>
