@@ -4,7 +4,7 @@
 Simulações no Desmos do artigo "<i><b>Revisitando dois problemas clássicos de perseguição do Irodov com auxílio do Desmos</b></i>" (<a href="irodov.pdf">PDF</a>)
 de autoria de <b>Felipe Costa Cunha</b> (IFCE) e <b>Rudini Sampaio</b> (DC-UFC).<br>
 
-https://github.com/rudinims/irodov/irodov.pdf
+irodov.pdf
 
 
 <hr>
