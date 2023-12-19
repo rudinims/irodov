@@ -1,8 +1,13 @@
 # Simulações de Física - Curvas de Perseguição no Desmos
 
 <hr>
-Simulações no Desmos do artigo "<i><b>Revisitando dois problemas clássicos do Irodov sobre curvas de perseguição</b></i>" (<a href="irodov.pdf">PDF</a>)
-de autoria de <b>Felipe Costa Cunha</b> (IFCE) e <b>Rudini Sampaio</b> (DC-UFC).<br>
+Simulações no Desmos do artigo:
+<ul>
+<li><b>Título:</b> <i>Revisitando dois problemas clássicos do Irodov sobre curvas de perseguição</i></li>
+<li><b>Autores:</b> Felipe Costa Cunha (IFCE) e Rudini Sampaio (DC-UFC)</li>
+<li><b>Journal:</b> Revista Brasileira de Ensino de Física, vol. 45, 2023 (RBEF, Qualis A1 em 2023)</li>
+<li><a href="irodov.pdf">PDF do artigo</a></li>
+</ul>
 
 [Link para o PDF do artigo](https://github.com/rudinims/irodov/blob/main/irodov.pdf)
 
