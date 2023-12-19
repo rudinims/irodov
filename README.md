@@ -9,8 +9,6 @@ Simulações no Desmos do artigo:
 <li><a href="irodov.pdf">PDF do artigo</a></li>
 </ul>
 
-[Link para o PDF do artigo](https://github.com/rudinims/irodov/blob/main/irodov.pdf)
-
 Uma cópia dessas simulações se encontra em [LIA-UFC](http://www.lia.ufc.br/~rudini/publ/irodov.htm) e em [DC-UFC](http://sites.dc.ufc.br/~rudini/publ/irodov.htm)
 
 
