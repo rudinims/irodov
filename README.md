@@ -5,7 +5,7 @@ Simulações no Desmos do artigo:
 <ul>
 <li><b>Título:</b> <i>Revisitando dois problemas clássicos do Irodov sobre curvas de perseguição</i></li>
 <li><b>Autores:</b> Felipe Costa Cunha (IFCE) e Rudini Sampaio (DC-UFC)</li>
-<li><b>Journal:</b> Revista Brasileira de Ensino de Física, vol. 45, 2023 (RBEF, Qualis A1 em 2023)</li>
+<li><b>Journal:</b> Revista Brasileira de Ensino de Física, vol. 46, 2024 (RBEF, Qualis A1 em 2023) <a href="http://dx.doi.org/10.1590/1806-9126-rbef-2023-0307">DOI do artigo</a></li>
 <li><a href="irodov.pdf">PDF do artigo</a></li>
 </ul>
 
