@@ -63,7 +63,7 @@ https://www.desmos.com/calculator/pkzvimemcc
 Perseguição livre de N pontos no círculo, com velocidades iguais às raízes quadradas de 1 a N.
 A configuração final de pontos é a famosa Espiral de Teodoro, que tende a uma Espiral de Arquimedes.<br>
 
-https://www.desmos.com/calculator/btcmejlcpf
+https://www.desmos.com/calculator/i6hvum3g0x
 
 
 <hr>
