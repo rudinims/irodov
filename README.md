@@ -56,7 +56,7 @@ https://www.desmos.com/calculator/cyhhjsjm8j
 Perseguição livre de N pontos no círculo, com velocidades em progressão aritmética.
 A configuração final de pontos tende a uma Espiral de Galileu, como a da simulação abaixo, com velocidades de 1 a N.<br>
 
-https://www.desmos.com/calculator/tbqajpkzlm
+https://www.desmos.com/calculator/pkzvimemcc
 
 <hr>
 <H2>Simulação computacional de variante do Problema 1.13 do Irodov no círculo sem colinearidade - Espiral de Teodoro</H2>
