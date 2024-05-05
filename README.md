@@ -49,7 +49,7 @@ https://www.desmos.com/calculator/h7iuzd87wq
 Perseguição livre de N pontos no círculo, com velocidades em progressão geométrica. A configuração final de pontos tende a uma espiral logarítmica.
 Ajustando a razão da progressão geométrica, temos a Espiral de Fibonacci da simulação abaixo.<br>
 
-https://www.desmos.com/calculator/cyhhjsjm8j
+https://www.desmos.com/calculator/o76d0dnpev
 
 <hr>
 <H2>Simulação computacional de variante do Problema 1.13 do Irodov no círculo sem colinearidade - Espiral de Galileu</H2>
