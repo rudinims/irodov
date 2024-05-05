@@ -76,7 +76,7 @@ https://www.desmos.com/calculator/hoyyxhqam3
 <H2>Simulação computacional de variante do Problema 1.13 do Irodov com N pontos, com o primeiro sobre um triângulo retângulo</H2>
 Perseguição livre de N pontos no triângulo retângulo. As trajetórias dos últimos vão se aproximando de um círculo.<br>
 
-https://www.desmos.com/calculator/dds5dkr4no
+https://www.desmos.com/calculator/t0xmkejyyd
 
 
 <hr>
