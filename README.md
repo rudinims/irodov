@@ -9,7 +9,7 @@ Desmos Simulations of the paper:
 <li><a href="irodov.pdf">PDF of the paper</a></li>
 </ul>
 
-Uma cópia dessas simulações se encontra em [LIA-UFC](http://www.lia.ufc.br/~rudini/publ/irodov.htm) e em [DC-UFC](http://sites.dc.ufc.br/~rudini/publ/irodov.htm)
+A copy of these simulations can be found here: [LIA-UFC](http://www.lia.ufc.br/~rudini/publ/irodov.htm) e em [DC-UFC](http://sites.dc.ufc.br/~rudini/publ/irodov.htm)
 
 
 <hr>
