@@ -4,7 +4,7 @@
 Desmos Simulations of the paper:
 <ul>
 <li><b>Title:</b> <i>Revisiting two classic problems of Irodov about pursuit curves</i></li>
-<li><b>Authors:</b> Felipe Costa Cunha (IFCE) e Rudini Sampaio (DC-UFC)</li>
+<li><b>Authors:</b> Felipe Costa Cunha (IFCE) and Rudini Sampaio (DC-UFC)</li>
 <li><b>Journal:</b> Revista Brasileira de Ensino de Física, vol. 46, 2024 (RBEF, Qualis A1 em 2023) <a href="http://dx.doi.org/10.1590/1806-9126-rbef-2023-0307">DOI link</a></li>
 <li><a href="irodov.pdf">PDF of the paper</a></li>
 </ul>
